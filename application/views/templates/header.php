@@ -60,17 +60,17 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto" href="#">Home</a></li>
-          <li><a class="nav-link scrollto" href="index.html#profile">Profile</a></li>
-          <li><a class="nav-link scrollto" href="index.html#achievement">Achievement</a></li>
-          <li><a class="nav-link scrollto" href="index.html#gallery">Gallery</a></li>
-          <li><a class="nav-link scrollto" href="index.html#team">structure</a></li>
-          <li><a class="nav-link scrollto" href="index.html#information">Information</a></li>
-          <li><a class="nav-link scrollto" href="index.html#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="#profile">Profile</a></li>
+          <li><a class="nav-link scrollto" href="#achievement">Achievement</a></li>
+          <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
+          <li><a class="nav-link scrollto" href="#team">structure</a></li>
+          <li><a class="nav-link scrollto" href="#information">Information</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->
 
-      <a class="btn-getstarted scrollto" href="index.html#profile">Get Started</a>
+      <a class="btn-getstarted scrollto" href="#profile">Get Started</a>
 
     </div>
   </header><!-- End Header -->
