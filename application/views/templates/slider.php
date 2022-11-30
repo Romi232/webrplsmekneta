@@ -12,7 +12,7 @@
 
           <div class="col-lg-9 text-center">
             <h2>WELCOME TO RPL SMEKNETA</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>Software Engineering (RPL, or in English : Software Engineering or SE ) is a professional field that studies software development methods including creation, maintenance, management of software development organizations and quality management.</p>
           </div>
 
         </div>
@@ -28,8 +28,8 @@
           </div>
 
           <div class="col-lg-9 text-center">
-            <h2>At vero eos et accusamus</h2>
-            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
+            <h2>SELAMAT DATANG di RPL SMEKNETA</h2>
+            <p>Rekayasa Perangkat Lunak (RPL, atau dalam bahasa Inggris: Software Engineering atau SE) adalah satu bidang profesi yang mendalami cara-cara pengembangan perangkat lunak termasuk pembuatan, pemeliharaan, manajemen organisasi pengembangan perangkat lunak dan manajemen kualitas.</p>
           </div>
 
         </div>
@@ -47,3 +47,5 @@
     <ol class="carousel-indicators"></ol>
 
   </section><!-- End Hero Section -->
+
+  
