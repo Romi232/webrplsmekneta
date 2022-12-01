@@ -73,7 +73,7 @@
         <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
           <a href="https://twitter.com/RPL_Smekneta" class="twitter" target="_blank"><i class="bi bi-twitter"></i></a>
           <a href="https://www.facebook.com/profile.php?id=100087615470992" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
-          <a href="" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/rpl-smekneta-155080259/" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
           <a href="https://www.tiktok.com/@rpl_smekneta" class="tiktok" target="_blank"><i class="bi bi-tiktok"></i></a>
           <a href="https://wa.me/628970783700" class="whatsapp" target="_blank"><i class="bi bi-whatsapp"></i></a>
         </div>
