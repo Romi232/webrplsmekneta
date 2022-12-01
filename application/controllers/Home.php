@@ -1,16 +1,16 @@
 <?php
-
+defined('BASEPATH') OR exit('No direct script access allowed');
 class Home extends CI_Controller {
     public function index()
     {
-        $this->load->view('templates/header');
-        $this->load->view('templates/slider');
-        $this->load->view('templates/profile');
-        $this->load->view('templates/achievement');
-        $this->load->view('templates/gallery');
-        $this->load->view('templates/structure');
-        $this->load->view('templates/information');
-        $this->load->view('templates/contact');
-        $this->load->view('templates/footer');
+        $this->load->view('home/header');
+        $this->load->view('home/slider');
+        $this->load->view('home/profile');
+        $this->load->view('home/achievement');
+        $this->load->view('home/gallery');
+        $this->load->view('home/structure');
+        $this->load->view('home/information');
+        $this->load->view('home/contact');
+        $this->load->view('home/footer');
     }
 }
