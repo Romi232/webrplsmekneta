@@ -16,7 +16,8 @@
               </div>
               <div class="member-info">
                 <div class="social">
-                  <a href="http://wa.me/6281336020601"><i class="bi bi-whatsapp"></i></a>
+                  <a href="http://wa.me/6281336020601" target="_blank"><i class="bi bi-whatsapp"></i></a>
+                  <a href="https://instagram.com/yatmadura339?igshid=YmMyMTA2M2Y=" target="_blank"><i class="bi bi-instagram"></i></a>
                 </div>
                 <h5>Suherman Hidayat, S.Pd, M.M.</h5>
                 <span>Chief of Smekneta</span>
@@ -31,10 +32,10 @@
               </div>
               <div class="member-info">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-whatsapp"></i></a>
+                  <a href="" target="_blank"><i class="bi bi-twitter"></i></a>
+                  <a href="" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="" target="_blank"><i class="bi bi-whatsapp"></i></a>
                 </div>
                 <h4>Amir Mahmud, S.Pd.</h4>
                 <span>Chief of Program</span>
@@ -49,10 +50,10 @@
               </div>
               <div class="member-info">
                 <div class="social">
-                  <a href="https://twitter.com/fauzul232"><i class="bi bi-twitter"></i></a>
-                  <a href="https://www.facebook.com/fauzulkaromi"><i class="bi bi-facebook"></i></a>
-                  <a href="https://www.instagram.com/fauzul_karomi/"><i class="bi bi-instagram"></i></a>
-                  <a href="https://www.linkedin.com/in/fauzul-karomi-6a47a171"><i class="bi bi-linkedin"></i></a>
+                  <a href="https://twitter.com/fauzul232" target="_blank"><i class="bi bi-twitter"></i></a>
+                  <a href="https://www.facebook.com/fauzulkaromi" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/fauzul_karomi/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/fauzul-karomi-6a47a171" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
                 <h4>Fauzul Karomi, S.Kom.</h4>
                 <span>Productive Teacher</span>
