@@ -8,6 +8,21 @@
 
         <div class="row gy-5">
 
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+            <div class="service-item">
+              <div class="img">
+                <img src="assets/img/achievement3.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="details position-relative">
+                <div class="icon">
+                  <i class="bi bi-trophy-fill"></i>
+                </div>
+                  <h3>JUARA 2 & JUARA 3</h3>
+                <p>Abd. Rohman & Syafiuddin <br> Lomba LKS Desain Web dan Desain Grafis Tingkat kabupaten <br> Di SMKN 2 Sampang <br> Tahun 2015</p>
+              </div>
+            </div>
+          </div><!-- End achievement Item -->
+
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
             <div class="service-item">
               <div class="img">
