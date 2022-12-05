@@ -9,7 +9,7 @@
             <div class="footer-info">
               <h3>RPL SMEKNETA</h3>
               <p>
-                jl. KH. Alinuruddin <br>
+                Jl. KH. Alinuruddin <br>
                 Kode Pos 69253, ID<br><br>
                 <strong>Phone:</strong> +62 817-5048-900<br>
                 <strong>Email:</strong> rpl.smekneta@gmail.com<br>
@@ -43,7 +43,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>If a lot of people don't know what I'm reading, then I'm going to be reading our big mistake</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
